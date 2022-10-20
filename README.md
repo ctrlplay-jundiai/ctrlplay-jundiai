@@ -1,16 +1,29 @@
-### Hi there 👋
+# Bem vindo ao GitHub da **Ctrl + Play Jundiaí**
+![Logo](https://universidadectrlplay.com.br/pluginfile.php/1/theme_moove/logo/1576097188/logo_ctrl_play.png)
+***
+`um texto discreto sobre a escola`
+#### Sobre nós
+- Nascemos em 01/01/2019
+- Temos os melhores alunos do munndo
 
+#### O que ensinamos
+<div><!--Stacks-->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/unity.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+</div>
 
-**ctrlplay-jundiai/ctrlplay-jundiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div><!--Stats-->
+  <img height="160em" width="500em"src="https://github-readme-stats.vercel.app/api?username=ctrlplay-jundiai&show_icons=true&theme=omni"/>
+  <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlplay-jundiai&layout=compact&theme=omni"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div><!--Contact-->
+  <a href="https://www.instagram.com/dannesxv"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dannesx/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:daniel.viantunes@gmail.com"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
